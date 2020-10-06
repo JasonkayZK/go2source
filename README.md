@@ -1,12 +1,8 @@
-## go2source/fmt
+---
+description: u
+---
 
-讲解fmt包源码的仓库
+# Golang源码解读
 
-Golang版本：
-
-```bash
-λ go version
-go version go1.15.1 windows/amd64
-```
-
+y h h
 
