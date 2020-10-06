@@ -1,6 +1,6 @@
-## go2source/io
+## go2source/fmt
 
-讲解io包源码的仓库
+讲解fmt包源码的仓库
 
 Golang版本：
 
