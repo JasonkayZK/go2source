@@ -1,6 +1,6 @@
-## go2source/io
+## go2source/bufio
 
-讲解io包源码的仓库
+讲解bufio包源码的仓库
 
 Golang版本：
 
