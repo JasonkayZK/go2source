@@ -1,6 +1,6 @@
-## go2source
+## go2source/bufio
 
-一个阅读Golang源码的仓库；
+讲解bufio包源码的仓库
 
 Golang版本：
 
@@ -8,4 +8,5 @@ Golang版本：
 λ go version
 go version go1.15.1 windows/amd64
 ```
+
 
