@@ -25,3 +25,5 @@ gen
 # vendor/
 
 _book
+
+node_modules
