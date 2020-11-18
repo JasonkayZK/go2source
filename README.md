@@ -1,6 +1,6 @@
-## go2source
+# 简介
 
-一个阅读Golang源码的仓库；
+一个阅读Golang源码的Git-book；
 
 Golang版本：
 
